@@ -69,11 +69,13 @@ body > section {
     margin-right: 16px;
     margin-bottom: 0;
     height: unset;
+    flex-grow: 1;
   }
 
   .C {
     flex-basis: 900px;
     height: unset;
+    flex-grow: 2;
   }
 
   .D {
